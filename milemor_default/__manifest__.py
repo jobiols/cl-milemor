@@ -41,8 +41,7 @@
     'port': '8069',
 
     'repos': [
-        {'usr': 'ntsystemwork', 'repo': 'cl-milemor', 'branch': '11.0',
-         'ssh':True},
+        {'usr': 'jobiols', 'repo': 'cl-milemor', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'rafi16jan-backend-theme',
          'branch': '11.0'},
