@@ -38,7 +38,7 @@
     # --------------------------------------------
 
     # port where odoo starts serving pages
-    'port': '8069',
+    'port': '8079',
 
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-milemor', 'branch': '11.0'},
